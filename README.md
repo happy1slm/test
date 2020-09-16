@@ -1,6 +1,6 @@
 <center><span style="color:inherit;background:背景颜色;font-size:3em;font-family:字体;"><b>Typora 使用教程</b></span></center>
 
-<center><b>柳思明</b> &nbsp &nbsp &nbsp &copy; 2020</center>
+<center><b>柳思明</b>  &copy; 2020</center>
 
 
 
