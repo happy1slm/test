@@ -2,8 +2,6 @@
 
 <center><b>柳思明</b> &nbsp &nbsp &nbsp &copy; 2020</center>
 
-## 前言
-
 
 
 ## 1.Typora是什么？
